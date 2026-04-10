@@ -1,6 +1,6 @@
 # AuthSystem Pro
 
-Full-stack authentication web app built with Next.js 14 + Supabase.
+Full-stack authentication web app built with Next.js 14 and Supabase.
 
 ## Stack
 
