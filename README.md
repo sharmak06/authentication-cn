@@ -70,6 +70,4 @@ Open `http://localhost:3000`.
 - `lib/supabase/`
 - `store/`
 - `types/`
-# authentication-cn
-# authentication-cn
-# authentication-cn
+
